@@ -1,4 +1,4 @@
-# React: Hacker Dormitory
+# React: Dormitory
 
 
 
